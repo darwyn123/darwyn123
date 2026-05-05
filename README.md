@@ -1,4 +1,4 @@
-<h1>#HelloWorld!, I'm Darwyn, an <a href="https://linkedin.com/in/darwyn-abreu-1b32ab240/">IT Professional</a></h1>
+<h1>#HelloWorld!, I'm Darwyn, an <a href="https://linkedin.com/in/darwynabreu/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,4 +16,4 @@
 [<img align="left" alt="darwyn-abreu-1b32ab240 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/darwyn-abreu-1b32ab240/
+[linkedin]: https://linkedin.com/in/darwynabreu/
